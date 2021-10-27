@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>World of Blocks</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>pl.poznan.put.cs.gui4pddl.PDDLParser</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>pl.poznan.put.cs.gui4pddl.PDDLProject</nature>
+	</natures>
+</projectDescription>

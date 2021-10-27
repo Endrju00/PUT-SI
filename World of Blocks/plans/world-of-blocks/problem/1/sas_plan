@@ -1,0 +1,4 @@
+(move-to-floor c b)
+(move-to-floor b a)
+(move-to-block b c)
+(move-to-block a b)

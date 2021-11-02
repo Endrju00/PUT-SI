@@ -1,0 +1,5 @@
+(przesun-na-pusty x z d1)
+(przesun x z d2 d1)
+(przesun x z d3 d1)
+(przesun x z d4 d1)
+(przesun x z d5 d1)

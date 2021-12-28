@@ -1,0 +1,17 @@
+Wstępny plan laboratoriow. Modyfikowanie w celu polepszenia planu bardzo mile widziane :)
+
+Lab1:
+	Atrybuty, Regresja liniowa, wielomianowa, Przeuczenie (z wizualizacjami)
+Lab2:
+	Klasyfikacja dwuklasowa (regresja logistyczna) [roznice wzgledem regresji],
+	Regresja logistyczna vs. Perceptron, F. aktywacji - Sigmoida, ReLU.
+	Złożenie neuronów w perceptron wielowarstwowy. Uczenie nielinowych funkcji decyzyjnych.
+	Wsteczna propagacja.
+Lab3:
+	Krótko o obliczeniach symbolicznych.
+	Wprowadzenie do higher-lvl interface: keras
+	Ćwiczenia z budowania modelu / implementacji warstw
+	Intro do ConvNets
+	Przykład z rozpoznawaniem X.
+Lab4:
+	Nieco o sieciach konwolucyjnych
